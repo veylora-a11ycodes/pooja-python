@@ -1,0 +1,12 @@
+a=100
+b=12
+print(a+b)
+a=100
+b=45
+print(a-b)
+a=10
+b=29
+print(a*b)
+a=78
+b=2
+print(a/b)
